@@ -1,3 +1,3 @@
 # README
 
-![Logo](./.res/Retro Hacker Logo Design (1))
+![Logo](Retro Hacker Logo Design (1).png)
